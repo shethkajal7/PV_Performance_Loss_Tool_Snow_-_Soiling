@@ -1,5 +1,16 @@
 # app.py
-
+'''
+References that were used for article
+Townsend, T., &amp; Powers, L. (2011). pvlib.snow.loss_townsend [Function]. In pvlib
+version 0.11.0 documentation. pvlib-python. https://pvlib-
+python.readthedocs.io/en/v0.11.0/reference/generated/pvlib.snow.loss_townsend.html
+Townsend, T., &amp; Powers, L. (2011). Photovoltaics and snow: An update from two winters
+of measurements in the SIERRA. In 2011 37th IEEE Photovoltaic Specialists
+Conference (pp. 3231–3236). IEEE. https://doi.org/10.1109/PVSC.2011.6186484
+Coello, M., &amp; Boyle, L. (2019). Simple model for predicting time series soiling of
+photovoltaic panels. IEEE Journal of Photovoltaics, 9(1), 242–248.
+https://doi.org/10.1109/JPHOTOV.2018.2873451
+'''
 
 import io
 import streamlit as st
