@@ -62,7 +62,7 @@ st.markdown("""
       .attrib { font-size: 1.5rem; line-height: 1.8; opacity: 0.9; }
     </style>
 """, unsafe_allow_html=True)
-st.markdown('<p class="attrib">This webpage was created by <b>Kajal Sheth</b> 😊</p>',
+st.markdown('<p class="attrib">This webpage was created by <b>Sheth Kajal</b> 😊</p>',
             unsafe_allow_html=True)
 
 MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
